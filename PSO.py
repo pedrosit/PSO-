@@ -1,3 +1,14 @@
+"""
+Pedro Sito Monaco from the https://www.ufrgs.br/ieelab/
+contact : pedro.smonaco@gmail.com
+
+about the code:
+
+Model that mathematically simulates the behavior of a group of birds 
+to find the minimum optimal or absolute value of complex functions
+
+"""
+
 import numpy as np
 import matplotlib.pyplot as plt
 
